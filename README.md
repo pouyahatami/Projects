@@ -1,8 +1,7 @@
 # Projects
 
 This project focuses on building a simple computer that implements a **Reduced Instruction Set Computer (RISC)**.  
-The ARMv7 architecture that I studied previously is also a RISC instruction set architecture (ISA).  
-Here, I designed and implemented my own RISC processor — much simpler than ARMv7 — but enough to give me a strong grasp of how computers actually work.  
+Here, I designed and implemented my own RISC processor while much simpler than ARMv7, it gave me a strong grasp of how computers actually work.  
 
 ---
 
@@ -20,21 +19,3 @@ RISC processors use a hardware structure known as a **register file**, which is 
 
 ---
 
-## Instruction Set
-
-The “Simple RISC Machine” executes programs written with a very small set of instructions.  
-While it is minimal compared to commercial ISAs, this project helped me understand instruction execution at the hardware level.  
-
----
-
-## Current Status
-
-I’m continuing to refine the CPU and experimenting with making it run as fast as possible.  
-
----
-
-## Key Learnings
-
-- Trade-offs between combinational and sequential logic  
-- Timing and critical path considerations in register file design  
-- Exposure to pipelining concepts as an area for improvement  
