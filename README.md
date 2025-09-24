@@ -1,4 +1,4 @@
-# Projects
+#Simple RISC-V Processor
 
 This project focuses on building a simple computer that implements a **Reduced Instruction Set Computer (RISC)**.  
 Here, I designed and implemented my own RISC processor while much simpler than ARMv7, it gave me a strong grasp of how computers actually work.  
